@@ -1,15 +1,5 @@
-# <img src="https://avatars1.githubusercontent.com/u/26231823?s=280&v=4" width="80" height="80"> Processando e Transformando Dados com Power BI
+Processando e Transformando Dados com Power BI
 Desafio de Projeto - Processando e Transformando Dados com Power BI
-
-### Link do Relatório
-
-Visite o relatório [Relatório Bussiness Report](https://app.powerbi.com/groups/me/reports/21b2f78a-5cb5-4d57-8bf4-04e1aa941c67/ReportSectiondb6b71f3c6e89b3434e2?experience=power-bi)
-
-### QR Code do Relatório
-
-![Relatório Business Report](https://github.com/data1991/desafio_transformando_dados/assets/144493849/46ea1fde-bc81-4eda-a36d-e46803eb9643)
-
-
 
 # Objetivo do Projeto:
 Processar os Dados de um arquivo .csv fornecido, transformá-los com Power BI e criar um relatório empresarial para saber se não houve problemas com os dados.
@@ -51,15 +41,9 @@ Processar os Dados de um arquivo .csv fornecido, transformá-los com Power BI e 
 
   ![Página02](https://github.com/data1991/desafio_transformando_dados/assets/144493849/03ff4292-2551-4833-a3e0-dfc2ca8df5a7)
 
-  # Dicas muito importantes
-
-1. Planeje antes de fazer
-2. Não saia fazendo as coisas sem antes entender o contexto
-3. Se tiver dúvidas, recorra as pessoas que já concluíram o desafio, pesquise no site da Microsoft Power BI, artigos, tópicos e peça ajuda ao ChatGPT(caso tenha conhecimento).
-
   
 
-  
+  (https://github.com/data1991)
    
    
    
